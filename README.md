@@ -122,7 +122,7 @@ Use your preferred environment (Pipenv, Conda, or virtualenv).
 
 ---
 
-## 📈 Future Additions  
+##  Future Additions  
 I plan to expand this repository with:
 
 - More ML algorithms implemented from scratch  
@@ -133,7 +133,7 @@ I plan to expand this repository with:
 
 ---
 
-## 👤 Author  
+##  Author  
 **Beven Mpofu**  
 Graduate Data Science Student — Michigan Technological University  
 Focused on ML, predictive modeling, deployment, and real‑world problem solving.
