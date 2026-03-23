@@ -136,8 +136,8 @@ I plan to expand this repository with:
 ##  Author  
 **Beven Mpofu**  
 Graduate Data Science Student — Michigan Technological University  
-Focused on ML, predictive modeling, deployment, and real‑world problem solving.
+Focused on ML, Deep Learning, LLM, AI and  predictive modeling, deployment, and real‑world problem solving.
 
 ---
 
-to take it.
+
